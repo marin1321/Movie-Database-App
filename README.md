@@ -7,7 +7,7 @@ Una aplicación para gestionar una base de datos de películas, clasificar pelí
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/your-repo/movie-database.git
+    git clone https://github.com/marin1321/Movie-Database-App.git
     ```
 
 2. Instala las dependencias:
